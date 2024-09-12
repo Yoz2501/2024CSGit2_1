@@ -1,1 +1,1 @@
-麒麟が話す
+Console.WriteLine("Hello, World!");
